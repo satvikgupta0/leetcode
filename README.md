@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
