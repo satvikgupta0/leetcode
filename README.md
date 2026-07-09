@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 ## Sorting
