@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
