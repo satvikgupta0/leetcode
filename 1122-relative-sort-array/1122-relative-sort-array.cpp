@@ -10,16 +10,16 @@ public:
                 }
             }
         }
-        vector<int> rem;
-        for(int i=0;i<arr1.size();i++){
-            if(arr1[i]!=-1){
-                rem.push_back(arr1[i]);
-            }
-        }
-        sort(rem.begin(),rem.end());
-        for(int i=0;i<rem.size();i++){
-            a.push_back(rem[i]);
-        }
+         vector<int> rem;
+         for(int i=0;i<arr1.size();i++){
+             if(arr1[i]!=-1){
+                 rem.push_back(arr1[i]);
+             }
+         }
+         sort(rem.begin(),rem.end());
+         for(int i=0;i<rem.size();i++){
+             a.push_back(rem[i]);
+         }
         
         return a;
     }
