@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satvikgupta0/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
@@ -31,17 +32,20 @@
 | ------- |
 | [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,9 +62,11 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
