@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satvikgupta0/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikgupta0/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -40,6 +41,7 @@
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
@@ -71,9 +73,14 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
