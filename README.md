@@ -19,6 +19,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satvikgupta0/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
+| [1470-shuffle-the-array](https://github.com/satvikgupta0/leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikgupta0/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/satvikgupta0/leetcode/tree/master/2104-sum-of-subarray-ranges) |
