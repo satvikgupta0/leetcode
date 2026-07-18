@@ -34,6 +34,7 @@
 | [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/satvikgupta0/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/satvikgupta0/leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/satvikgupta0/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
