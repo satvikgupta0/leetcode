@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/satvikgupta0/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satvikgupta0/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/satvikgupta0/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
@@ -106,6 +108,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
