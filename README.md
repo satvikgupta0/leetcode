@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/satvikgupta0/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/satvikgupta0/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satvikgupta0/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/satvikgupta0/leetcode/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
 | ------- |
