@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/satvikgupta0/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satvikgupta0/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
@@ -51,6 +52,7 @@
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikgupta0/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
@@ -63,6 +65,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/satvikgupta0/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/satvikgupta0/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
