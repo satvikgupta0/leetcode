@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satvikgupta0/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/satvikgupta0/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikgupta0/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
