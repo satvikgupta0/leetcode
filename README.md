@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/satvikgupta0/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satvikgupta0/leetcode/tree/master/0053-maximum-subarray) |
@@ -109,6 +110,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
