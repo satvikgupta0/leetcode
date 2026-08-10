@@ -82,6 +82,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikgupta0/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/satvikgupta0/leetcode/tree/master/0371-sum-of-two-integers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/satvikgupta0/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikgupta0/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
