@@ -71,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/satvikgupta0/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satvikgupta0/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
@@ -205,6 +206,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/satvikgupta0/leetcode/tree/master/2951-find-the-peaks) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
