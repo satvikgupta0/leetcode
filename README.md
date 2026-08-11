@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satvikgupta0/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/satvikgupta0/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/satvikgupta0/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satvikgupta0/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -138,6 +139,7 @@
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvikgupta0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/satvikgupta0/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
