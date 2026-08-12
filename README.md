@@ -54,6 +54,7 @@
 | [2951-find-the-peaks](https://github.com/satvikgupta0/leetcode/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvikgupta0/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/satvikgupta0/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/satvikgupta0/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikgupta0/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvikgupta0/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/satvikgupta0/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvikgupta0/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/satvikgupta0/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/satvikgupta0/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
