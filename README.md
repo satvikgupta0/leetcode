@@ -54,6 +54,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/satvikgupta0/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikgupta0/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/satvikgupta0/leetcode/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvikgupta0/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satvikgupta0/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/satvikgupta0/leetcode/tree/master/3668-restore-finishing-order) |
@@ -171,6 +172,7 @@
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvikgupta0/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/satvikgupta0/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/satvikgupta0/leetcode/tree/master/3731-find-missing-elements) |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/satvikgupta0/leetcode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
