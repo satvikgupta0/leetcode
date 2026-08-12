@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        vector<int> ans;
+        int ans = INT_MAX;
         
         for(int x:nums){
             int sum = 0;
@@ -10,17 +10,8 @@ public:
                 x=x/10;
                 
             }
-            ans.push_back(sum);
+            ans=min(ans,sum);
         }
-        for(int x:ans){
-            cout<<x<<" ";
-        }
-        int min=ans[0];
-        for(int i=0;i<ans.size();i++){
-            if(min>ans[i])
-            min=ans[i];
-        }
-        return min;
-
+      return ans;
     }
 };
