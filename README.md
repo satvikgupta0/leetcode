@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/satvikgupta0/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvikgupta0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/satvikgupta0/leetcode/tree/master/0414-third-maximum-number) |
@@ -75,6 +76,7 @@
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satvikgupta0/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvikgupta0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/satvikgupta0/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +130,7 @@
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/satvikgupta0/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -152,6 +155,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvikgupta0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/satvikgupta0/leetcode/tree/master/0704-binary-search) |
@@ -275,8 +279,13 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/satvikgupta0/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
