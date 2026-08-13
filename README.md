@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satvikgupta0/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satvikgupta0/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satvikgupta0/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satvikgupta0/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satvikgupta0/leetcode/tree/master/0027-remove-element) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satvikgupta0/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satvikgupta0/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/satvikgupta0/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/satvikgupta0/leetcode/tree/master/0075-sort-colors) |
