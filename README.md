@@ -54,6 +54,7 @@
 | [1470-shuffle-the-array](https://github.com/satvikgupta0/leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikgupta0/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/satvikgupta0/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikgupta0/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/satvikgupta0/leetcode/tree/master/2951-find-the-peaks) |
@@ -98,6 +99,7 @@
 | [0371-sum-of-two-integers](https://github.com/satvikgupta0/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satvikgupta0/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/satvikgupta0/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [1051-height-checker](https://github.com/satvikgupta0/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +212,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/satvikgupta0/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/satvikgupta0/leetcode/tree/master/0605-can-place-flowers) |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -290,4 +295,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
