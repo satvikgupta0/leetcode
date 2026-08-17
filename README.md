@@ -53,6 +53,7 @@
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikgupta0/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/satvikgupta0/leetcode/tree/master/1470-shuffle-the-array) |
+| [1563-stone-game-v](https://github.com/satvikgupta0/leetcode/tree/master/1563-stone-game-v) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikgupta0/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
@@ -101,6 +102,7 @@
 | [0371-sum-of-two-integers](https://github.com/satvikgupta0/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikgupta0/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/satvikgupta0/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satvikgupta0/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -147,6 +149,7 @@
 | [0118-pascals-triangle](https://github.com/satvikgupta0/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satvikgupta0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/satvikgupta0/leetcode/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/satvikgupta0/leetcode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/satvikgupta0/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
