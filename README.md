@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satvikgupta0/leetcode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/satvikgupta0/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -242,6 +243,7 @@
 | [0383-ransom-note](https://github.com/satvikgupta0/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satvikgupta0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/satvikgupta0/leetcode/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
