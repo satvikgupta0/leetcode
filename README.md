@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/satvikgupta0/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satvikgupta0/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satvikgupta0/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/satvikgupta0/leetcode/tree/master/0018-4sum) |
@@ -237,6 +238,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/satvikgupta0/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/satvikgupta0/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/satvikgupta0/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/satvikgupta0/leetcode/tree/master/0290-word-pattern) |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satvikgupta0/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
