@@ -249,6 +249,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/satvikgupta0/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satvikgupta0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/satvikgupta0/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
@@ -337,4 +338,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/satvikgupta0/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/satvikgupta0/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
