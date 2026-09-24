@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/satvikgupta0/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satvikgupta0/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikgupta0/leetcode/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satvikgupta0/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvikgupta0/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satvikgupta0/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/satvikgupta0/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satvikgupta0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -222,6 +224,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
 ## Greedy
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikgupta0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvikgupta0/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satvikgupta0/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
