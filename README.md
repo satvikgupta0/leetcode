@@ -242,6 +242,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satvikgupta0/leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/satvikgupta0/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -266,6 +267,7 @@
 | [0796-rotate-string](https://github.com/satvikgupta0/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satvikgupta0/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satvikgupta0/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
