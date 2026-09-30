@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/satvikgupta0/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/satvikgupta0/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satvikgupta0/leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satvikgupta0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/satvikgupta0/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -103,6 +104,7 @@
 | [0013-roman-to-integer](https://github.com/satvikgupta0/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/satvikgupta0/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satvikgupta0/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satvikgupta0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/satvikgupta0/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satvikgupta0/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/satvikgupta0/leetcode/tree/master/0231-power-of-two) |
@@ -242,6 +244,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satvikgupta0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/satvikgupta0/leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikgupta0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
