@@ -207,6 +207,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvikgupta0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/satvikgupta0/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/satvikgupta0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/satvikgupta0/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -271,6 +272,7 @@
 | [0290-word-pattern](https://github.com/satvikgupta0/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/satvikgupta0/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satvikgupta0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/satvikgupta0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/satvikgupta0/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvikgupta0/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satvikgupta0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikgupta0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/satvikgupta0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvikgupta0/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satvikgupta0/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satvikgupta0/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
