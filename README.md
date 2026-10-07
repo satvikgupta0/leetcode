@@ -54,6 +54,7 @@
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/satvikgupta0/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/satvikgupta0/leetcode/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/satvikgupta0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/satvikgupta0/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satvikgupta0/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/satvikgupta0/leetcode/tree/master/1051-height-checker) |
@@ -216,6 +217,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/satvikgupta0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satvikgupta0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/satvikgupta0/leetcode/tree/master/0697-degree-of-an-array) |
+| [0904-fruit-into-baskets](https://github.com/satvikgupta0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/satvikgupta0/leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/satvikgupta0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satvikgupta0/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -345,6 +347,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikgupta0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/satvikgupta0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/satvikgupta0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/satvikgupta0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvikgupta0/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satvikgupta0/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satvikgupta0/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
